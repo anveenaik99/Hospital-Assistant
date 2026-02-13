@@ -1,0 +1,8 @@
+streamlit==1.32.0
+langchain==0.2.16
+langgraph==0.2.55
+langchain-openai==0.1.8
+python-dateutil==2.9.0
+pandas==2.2.1
+python-dotenv==1.0.1
+pytz==2024.1
