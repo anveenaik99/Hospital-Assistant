@@ -4,13 +4,13 @@
 Demonstrating product thinking, user-centric design, and AI implementation in healthcare
 
 
-## 🎯 Product Vision
+## Product Vision
 
 **"Making pediatric healthcare accessible, proactive, and stress-free for parents while empowering practitioners with efficient care management."**
 
 ---
 
-## 📊 Working Backwards: From Customer Pain Points to Solution
+## Working Backwards: From Customer Pain Points to Solution
 
 ### Customer Research & Pain Points Identified
 
@@ -74,11 +74,11 @@ An AI-powered pediatric care system that:
 **User Story:** *"As a parent, I want to ask health questions and get reliable guidance so that I can make informed decisions without always visiting the doctor."*
 
 **Acceptance Criteria:**
-- ✅ Natural language conversation interface
-- ✅ Access to child's medical history and allergies
-- ✅ Contextual responses based on child's age and history
-- ✅ Clear disclaimers (not medical advice)
-- ✅ Escalation to practitioner when needed
+- Natural language conversation interface
+- Access to child's medical history and allergies
+- Contextual responses based on child's age and history
+- Clear disclaimers (not medical advice)
+- Escalation to practitioner when needed
 
 **Product Decisions:**
 - Used GPT-4o-mini for cost-effective, accurate responses
@@ -90,10 +90,10 @@ An AI-powered pediatric care system that:
 **User Story:** *"As a parent, I want to be automatically reminded about upcoming vaccines so that my child stays on schedule."*
 
 **Acceptance Criteria:**
-- ✅ Automatic tracking based on India UIP schedule
-- ✅ Overdue vaccine identification
-- ✅ Upcoming vaccine reminders (28-day window)
-- ✅ One-click appointment booking for vaccines
+- Automatic tracking based on India UIP schedule
+- Overdue vaccine identification
+- Upcoming vaccine reminders (28-day window)
+- One-click appointment booking for vaccines
 
 **Product Decisions:**
 - 28 vaccines from birth to 16 years
@@ -105,10 +105,10 @@ An AI-powered pediatric care system that:
 **User Story:** *"As a parent, I want to easily book appointments at convenient times so that I don't have to call the clinic multiple times."*
 
 **Acceptance Criteria:**
-- ✅ View available time slots
-- ✅ Book appointments through chat
-- ✅ Conflict prevention (double-booking)
-- ✅ Clear confirmation with details
+- View available time slots
+- Book appointments through chat
+- Conflict prevention (double-booking)
+- Clear confirmation with details
 
 **Product Decisions:**
 - 30-minute slot cadence (25-min appointments + 5-min buffer)
@@ -120,10 +120,10 @@ An AI-powered pediatric care system that:
 **User Story:** *"As a practitioner, I want to efficiently manage patient records so that I can focus on care rather than paperwork."*
 
 **Acceptance Criteria:**
-- ✅ Quick patient search
-- ✅ Comprehensive medical history view
-- ✅ Easy prescription and vaccine recording
-- ✅ Appointment schedule overview
+- Quick patient search
+- Comprehensive medical history view
+- Easy prescription and vaccine recording
+- Appointment schedule overview
 
 **Product Decisions:**
 - Streamlit for rapid development
@@ -132,7 +132,7 @@ An AI-powered pediatric care system that:
 
 ---
 
-## 📈 Success Metrics (KPIs)
+## Success Metrics (KPIs)
 
 ### User Engagement Metrics
 - **Parent Satisfaction:** Chat completion rate, positive feedback
@@ -151,16 +151,16 @@ An AI-powered pediatric care system that:
 
 ---
 
-## 🛠️ Product Requirements
+## Product Requirements
 
 ### Functional Requirements
 
 #### Must Have (MVP)
-1. ✅ AI chat interface for health queries
-2. ✅ Child record management (CRUD)
-3. ✅ Vaccine schedule tracking
-4. ✅ Appointment booking system
-5. ✅ Practitioner admin dashboard
+1. AI chat interface for health queries
+2. Child record management (CRUD)
+3. Vaccine schedule tracking
+4. Appointment booking system
+5. Practitioner admin dashboard
 
 #### Should Have (Phase 2)
 - [ ] SMS/Email notifications for appointments
@@ -209,7 +209,7 @@ Children
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.12+
@@ -250,14 +250,14 @@ streamlit run app/main.py
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 - **[SAMPLE_DATA.md](SAMPLE_DATA.md)** - Test data and scenarios
 - **[plan.md](plan.md)** - Original development plan
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Sample Test Scenarios
 
@@ -283,7 +283,7 @@ Expected: AI considers allergy, asks clarifying questions
 ```
 ---
 
-## 🎓 Key Learnings (PM Perspective)
+## Key Learnings (PM Perspective)
 
 ### What Worked Well
 1. **User-Centric Design:** Starting with pain points led to clear features
@@ -298,10 +298,10 @@ Expected: AI considers allergy, asks clarifying questions
 4. **Compliance:** HIPAA/data privacy addressed too late
 
 ### PM Skills Demonstrated
-- ✅ Customer empathy & problem identification
-- ✅ Requirements gathering & prioritization
-- ✅ Working backwards from customer needs
-- ✅ Trade-off analysis & decision making
-- ✅ Success metrics definition
-- ✅ Roadmap planning
-- ✅ Cross-functional thinking (product + tech)
+- Customer empathy & problem identification
+- Requirements gathering & prioritization
+- Working backwards from customer needs
+- Trade-off analysis & decision making
+- Success metrics definition
+- Roadmap planning
+- Cross-functional thinking (product + tech)
