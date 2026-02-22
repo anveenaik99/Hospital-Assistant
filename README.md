@@ -3,6 +3,15 @@
 **Portfolio Project for Product Manager**  
 Demonstrating product thinking, user-centric design, and AI implementation in healthcare
 
+---
+
+## Watch the demo
+
+[![Hospital Agent Recording](https://img.shields.io/badge/▶_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1dXyeue4q-iKsUcsvuvaiffBWC8vnQ0lI/view?usp=sharing)
+
+**[Click here to open the video](https://drive.google.com/file/d/1dXyeue4q-iKsUcsvuvaiffBWC8vnQ0lI/view?usp=sharing)** (opens in Google Drive)
+
+---
 
 ## Product Vision
 
